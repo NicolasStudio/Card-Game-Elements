@@ -249,10 +249,8 @@
         height: 10%;
         list-style:none;
         margin-left: -8px;
-        margin-bottom: -8px;
-        
+        margin-bottom: -8px;      
         padding-right:3px;
-
     }
 
     .texto a {
@@ -262,7 +260,7 @@
         Color: white;
         text-decoration: none;
         padding-left: 15px;
-    
+        vertical-align: 10px;
     }
 
     .texto img{
@@ -270,8 +268,7 @@
         width: 2.7%;
         border-radius: 50%;
         color: white;
-       
-
     }
+
 
 
